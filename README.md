@@ -1,5 +1,5 @@
 # PythonWebScraper
-The available script:
+The two available scripts:
 
 webscraper_jobs.py
 
