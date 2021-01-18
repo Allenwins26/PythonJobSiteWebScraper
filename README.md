@@ -9,4 +9,4 @@ The Python libraries requests and Beautiful Soup are powerful tools that are uti
 
 job_search.py
 
-Code that is expanded as a command-line-interface app
+Code that can be expanded as a command-line-interface app
